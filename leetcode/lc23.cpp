@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//合并k个有序链表，模拟题
+
 struct ListNode
 {
     int val;

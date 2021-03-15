@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//简单的字符串正则表达式匹配，暴力即可
+
 map<string, int> M;
 
 bool isMatch(string s, string p)

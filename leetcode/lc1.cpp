@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//暴力
+
 class Solution
 {
 public:

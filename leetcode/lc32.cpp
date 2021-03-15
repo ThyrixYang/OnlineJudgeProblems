@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//判断最长合法括号序列，可用栈解决
+
 class Solution
 {
 public:
