@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// 简单模拟
+
 class Solution
 {
 public:
